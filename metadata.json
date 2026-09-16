@@ -1,0 +1,6 @@
+{
+  "name": "Timed Interactive Quiz & Weather Dashboard",
+  "description": "Interactive timed quiz with local storage leaderboard alongside a synchronous live weather dashboard consuming public REST APIs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
